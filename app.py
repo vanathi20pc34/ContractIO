@@ -3,20 +3,12 @@ import openai
 import pandas as pd
 
 app = Flask(__name__)
-
-# Load your CSV data
-# Load your CSV data
 data = pd.read_csv("lease_data_2.csv")
-
-# Convert the date columns with the correct format
 data['lease_start_date'] = pd.to_datetime(data['lease_start'], format='%m/%d/%Y', errors='coerce')
 data['lease_end_date'] = pd.to_datetime(data['lease_end'], format='%m/%d/%Y', errors='coerce')
 
-
-# OpenAI API Key (replace with your own key)
 openai.api_key = "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"
 
-# Home route with form
 @app.route('/')
 def home():
     return '''
@@ -27,14 +19,12 @@ def home():
     </form>
     '''
 
-# Query endpoint
 @app.route('/query', methods=['POST'])
 def query():
-    user_query = request.form.get("query")  # Get query from form
+    user_query = request.form.get("query") 
     if not user_query:
         return jsonify({"error": "Query is required."}), 400
 
-    # Process question via OpenAI
     try:
         response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
