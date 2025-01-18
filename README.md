@@ -1,1 +1,1 @@
-# ContractIO
+You are provided with a CSV file containing 100 lease records. Each record includes details such as lease ID, tenant name, lease start date, lease end date, monthly rent, payment frequency, and other relevant data.
