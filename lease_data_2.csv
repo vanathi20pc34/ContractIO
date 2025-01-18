@@ -1,0 +1,101 @@
+lease_id,company_name,address1,suite,city,state,postal_code,rent_monthly,lease_start,lease_end,space_size,renewal_option
+L0001,Pacific Services Inc,5328 Market Street,Suite 290,Houston,TX,76434,140406,11-11-2022,07-11-2024,49291,None
+L0002,Global Digital Corp,8197 State Street,Suite 1025,Dallas,CA,51690,8907,9/30/2023,11-11-2028,3330,1x3
+L0003,Premier Partners Holdings,9916 Broadway Road,Suite 671,San Antonio,TX,70877,32506,8/22/2023,8/31/2028,12320,2x5
+L0004,Advanced Tech Inc,1499 Broadway Avenue,Suite 585,Houston,TX,10828,51976,8/16/2022,7/14/2025,21103,1x5
+L0005,Global Ventures Co,993 Cedar Boulevard,Ste 200,Houston,NY,43634,60479,12/18/2022,10/21/2028,26973,2x5
+L0006,Dynamic Services LLC,2597 Broadway Boulevard,Suite 1078,San Diego,NY,13617,50475,3/27/2023,7/13/2024,26528,None
+L0007,Atlantic Services Limited,9304 Oak Street,Ste 431,Los Angeles,NY,74005,71777,12/23/2023,03-09-2026,40723,1x3
+L0008,Elite Analytics Co,5069 Market Street,Ste 463,San Diego,CA,34813,46795,1/25/2023,06-07-2028,16606,2x3
+L0009,Elite Partners International,6761 Cedar Street,Suite 1091,Houston,AZ,29666,65638,10/21/2023,6/20/2027,28793,2x3
+L0010,United Analytics Co,8503 Broadway Road,Suite 1084,Dallas,PA,81738,54639,3/16/2023,12-07-2024,31756,1x3
+L0011,Advanced Systems Holdings,1422 Pine Road,Ste 635,New York,TX,54716,7494,9/30/2023,12/16/2025,3431,2x3
+L0012,Pacific Partners Enterprises,7078 Broadway Street,Suite 455,New York,TX,63096,2606,1/31/2022,2/24/2024,1241,1x3
+L0013,United Partners Co,7028 Oak Road,Ste 919,Phoenix,CA,92147,32898,9/13/2023,5/23/2026,11913,None
+L0014,Elite Tech Co,4174 State Road,Ste 354,Philadelphia,AZ,24025,25490,6/20/2023,9/19/2027,13009,1x3
+L0015,Advanced Systems Holdings,7385 Broadway Road,Ste 783,San Antonio,TX,10645,132943,4/16/2023,8/14/2024,49308,2x3
+L0016,Strategic Consulting Corp,2497 Pine Road,Ste 710,San Jose,PA,67386,63797,10/26/2022,12/15/2027,28998,None
+L0017,Advanced Consulting Group,7264 Market Road,Ste 359,San Antonio,PA,59135,30252,04-01-2023,01-02-2026,10466,None
+L0018,Advanced Tech Limited,8528 Maple Avenue,Ste 1005,San Jose,TX,66121,14219,5/25/2022,03-08-2024,5488,2x5
+L0019,Atlantic Industries Limited,6022 Commerce Avenue,Suite 610,New York,IL,14820,35570,5/19/2023,05-06-2028,21009,1x5
+L0020,United Industries Associates,9320 Broadway Street,Ste 737,Philadelphia,NY,50316,37456,11-11-2022,4/20/2027,16991,2x3
+L0021,Atlantic Services Enterprises,1015 Pine Street,Ste 353,Chicago,IL,38114,84434,6/22/2023,04-11-2026,41222,2x5
+L0022,Pacific Services Co,8176 Oak Street,Suite 352,Dallas,NY,85966,72231,7/17/2022,1/18/2027,34673,None
+L0023,Elite Solutions Enterprises,5693 State Street,Ste 360,San Diego,TX,93814,29363,3/28/2023,5/18/2027,14066,2x5
+L0024,Strategic Ventures Co,2350 Oak Boulevard,Ste 903,Houston,CA,40637,99908,11/29/2023,09-01-2026,48397,1x5
+L0025,Strategic Solutions International,793 Commerce Street,Ste 157,San Jose,NY,34467,64114,8/20/2022,9/14/2023,32076,2x3
+L0026,Innovative Partners Inc,9411 Oak Drive,Suite 569,San Diego,TX,13979,141505,8/30/2023,03-12-2026,48611,2x3
+L0027,United Consulting Associates,2880 Broadway Road,Ste 299,Dallas,AZ,71798,12873,11-09-2023,10/24/2028,4522,2x5
+L0028,Innovative Systems Inc,8189 Maple Drive,Ste 1032,Phoenix,TX,20775,34764,11/22/2023,09-05-2026,13279,1x5
+L0029,Pacific Analytics Inc,9611 Market Boulevard,Suite 714,Chicago,CA,26915,95862,6/22/2022,6/25/2026,39649,1x5
+L0030,Pacific Tech Holdings,9498 Oak Drive,Suite 620,Chicago,TX,54213,87132,3/15/2023,11/30/2027,30792,1x5
+L0031,Elite Partners Limited,9056 Commerce Boulevard,Ste 182,Los Angeles,NY,26279,122661,3/31/2022,01-07-2025,45634,2x3
+L0032,Dynamic Tech Co,3601 Main Drive,Ste 876,Chicago,TX,28293,62976,12/14/2022,06-09-2024,32182,2x3
+L0033,Innovative Consulting Co,4592 Market Road,Ste 1061,San Jose,TX,29342,98691,6/28/2023,7/16/2028,36432,1x5
+L0034,Advanced Analytics Holdings,2250 Broadway Road,Ste 683,Phoenix,NY,88935,81267,7/14/2022,10/22/2025,33683,1x5
+L0035,Advanced Tech International,8887 Commerce Road,Ste 162,Phoenix,CA,29180,7666,12-07-2022,9/22/2027,3201,1x5
+L0036,Elite Industries Corp,87 Oak Drive,Suite 998,Philadelphia,NY,90221,98150,08-06-2022,03-07-2025,45808,2x5
+L0037,Premier Partners Inc,4555 Cedar Boulevard,Ste 1082,Dallas,TX,18837,130806,12/16/2023,10/25/2025,49055,1x3
+L0038,Premier Ventures Co,4480 Maple Road,Ste 216,Phoenix,PA,37121,23073,07-03-2022,1/21/2027,8579,1x3
+L0039,Atlantic Ventures Limited,5117 Cedar Road,Ste 853,San Diego,TX,78882,58045,4/25/2023,9/23/2026,34434,2x5
+L0040,Pacific Industries International,6210 Main Avenue,Ste 733,New York,CA,82468,57737,11/18/2023,7/27/2028,26292,1x3
+L0041,Innovative Services Associates,7509 Oak Avenue,Ste 367,San Jose,AZ,88683,26032,3/29/2023,10-07-2028,12025,1x3
+L0042,Global Services International,5661 Cedar Drive,Suite 960,Chicago,CA,99526,59033,10-11-2022,02-02-2028,24034,1x5
+L0043,Atlantic Digital Limited,6862 Pine Road,Ste 404,Philadelphia,TX,31930,26756,1/31/2023,11-02-2026,14860,1x3
+L0044,Dynamic Tech Inc,8448 Commerce Drive,Suite 335,Dallas,IL,75963,27890,11/24/2022,08-04-2026,11863,2x5
+L0045,United Systems Inc,921 Commerce Boulevard,Suite 797,New York,CA,91477,68689,05-05-2022,8/17/2026,38144,1x3
+L0046,Strategic Solutions Corp,2607 Broadway Avenue,Suite 742,San Diego,TX,97344,17136,11-05-2023,6/14/2026,6157,1x3
+L0047,Premier Ventures LLC,6024 Maple Avenue,Ste 859,San Jose,TX,36408,12917,07-04-2023,12-08-2024,4845,1x3
+L0048,Advanced Analytics Holdings,4153 Cedar Street,Ste 337,Houston,TX,45839,31399,6/27/2023,04-04-2026,10972,1x3
+L0049,Pacific Tech Enterprises,5960 Commerce Street,Suite 659,Chicago,TX,81513,47392,1/28/2022,7/28/2023,26131,2x3
+L0050,United Services Inc,5100 Commerce Street,Suite 384,Chicago,IL,96654,42749,9/24/2022,10-06-2027,22217,None
+L0051,Strategic Services Co,5657 Commerce Road,Ste 719,Chicago,AZ,90384,56278,04-11-2022,7/15/2026,27116,None
+L0052,Strategic Consulting Holdings,3045 Main Road,Suite 767,Philadelphia,TX,94518,97303,7/16/2022,3/14/2026,38134,None
+L0053,Strategic Partners Group,2847 Market Boulevard,Ste 985,San Diego,CA,98281,56797,3/13/2023,11-11-2024,24700,1x5
+L0054,Atlantic Partners Group,7190 Maple Boulevard,Suite 442,Philadelphia,CA,21835,47813,5/26/2023,11/30/2025,19153,2x3
+L0055,Atlantic Systems LLC,1510 Maple Drive,Ste 167,San Antonio,TX,73836,129891,12-08-2023,9/14/2025,49207,1x5
+L0056,Elite Tech Holdings,7279 Cedar Avenue,Suite 355,Phoenix,NY,26390,76457,11/20/2023,10-07-2025,44819,1x5
+L0057,Premier Consulting Group,9071 Commerce Street,Ste 101,Philadelphia,IL,53606,58986,1/19/2023,12-11-2026,22816,2x5
+L0058,Advanced Consulting Corp,7777 Pine Avenue,Suite 800,San Diego,IL,57525,47624,11/25/2023,7/18/2025,21382,2x3
+L0059,Strategic Consulting Inc,514 Commerce Street,Ste 173,San Jose,CA,98705,13393,12/20/2023,7/17/2025,7847,2x3
+L0060,Pacific Systems Group,7364 Broadway Avenue,Ste 801,Philadelphia,NY,54663,65073,12/22/2023,04-11-2026,31756,1x3
+L0061,Dynamic Ventures International,7188 Broadway Drive,Suite 837,Chicago,TX,86443,81529,5/29/2023,08-10-2028,30279,2x3
+L0062,Advanced Ventures Enterprises,3024 Cedar Street,Suite 502,Los Angeles,IL,53031,50965,11-03-2023,10-12-2028,29626,2x5
+L0063,Pacific Consulting Limited,8941 State Road,Ste 648,New York,IL,33685,87186,10/27/2023,8/19/2026,41201,2x5
+L0064,Atlantic Consulting LLC,6215 Oak Avenue,Suite 165,Phoenix,PA,65804,64986,02-12-2023,9/29/2027,27438,2x5
+L0065,Elite Services Enterprises,6627 Oak Drive,Suite 742,Philadelphia,TX,34336,71787,04-12-2022,4/22/2028,37531,1x3
+L0066,Dynamic Consulting Limited,8869 Broadway Drive,Suite 158,Dallas,CA,23215,31178,6/13/2022,03-09-2027,13725,2x3
+L0067,United Systems Co,1247 Main Road,Ste 608,Dallas,CA,30934,30252,07-08-2023,06-11-2025,17094,2x3
+L0068,Global Industries Limited,402 Market Road,Suite 104,Chicago,NY,39495,119033,9/26/2022,8/24/2028,49555,1x5
+L0069,Atlantic Ventures Inc,9034 Market Drive,Ste 855,Houston,TX,72384,13167,12-04-2023,03-10-2028,5806,1x5
+L0070,United Solutions LLC,8519 Broadway Road,Ste 992,Phoenix,AZ,67203,82537,10-02-2022,1/13/2028,34741,2x3
+L0071,Global Tech Co,7453 State Street,Ste 1098,Chicago,CA,38509,17419,11-01-2022,5/31/2027,9111,None
+L0072,Pacific Consulting Enterprises,164 Oak Road,Suite 190,Philadelphia,TX,63212,91052,7/25/2023,08-04-2027,44936,2x5
+L0073,Pacific Solutions LLC,7171 Broadway Avenue,Ste 927,Philadelphia,TX,32927,106349,06-04-2023,5/13/2026,40639,None
+L0074,Dynamic Digital Limited,5503 Main Boulevard,Ste 969,San Antonio,CA,48185,106269,11/16/2023,12-06-2028,39318,1x3
+L0075,Premier Solutions Associates,8167 Main Road,Suite 1041,Chicago,CA,48860,87220,8/19/2022,12/25/2026,34085,None
+L0076,Dynamic Tech Enterprises,3835 Cedar Drive,Suite 940,Dallas,TX,99638,27523,02-09-2022,7/21/2028,10493,1x5
+L0077,Elite Systems Limited,6882 Broadway Avenue,Suite 747,New York,CA,14765,45055,12/16/2023,2/13/2025,16000,2x5
+L0078,Advanced Ventures Limited,3701 Main Avenue,Suite 531,Houston,TX,99177,107532,09-07-2022,02-08-2028,40170,1x3
+L0079,Strategic Tech Enterprises,6316 Oak Boulevard,Suite 203,Los Angeles,TX,21808,29890,12/24/2023,04-06-2028,17886,2x5
+L0080,Strategic Solutions Corp,6908 Market Road,Suite 996,San Jose,IL,31937,68530,12/26/2023,11-06-2028,33407,None
+L0081,Pacific Partners Inc,8674 Commerce Avenue,Suite 559,New York,CA,47091,89109,12-05-2023,1/22/2028,34262,2x3
+L0082,Atlantic Services Associates,3197 Main Road,Ste 768,Houston,IL,58964,66375,2/25/2023,05-06-2025,31142,2x3
+L0083,Premier Consulting Corp,9864 Market Boulevard,Ste 443,Houston,CA,25151,34038,10-12-2023,6/29/2025,20406,2x5
+L0084,Dynamic Services Corp,940 Broadway Drive,Ste 636,San Jose,TX,58697,71997,03-05-2023,11-02-2025,32489,2x5
+L0085,Global Ventures Holdings,2734 Oak Avenue,Ste 1016,Chicago,TX,35626,100968,3/28/2023,8/22/2025,47889,2x3
+L0086,Premier Ventures Inc,9786 Pine Road,Suite 424,San Jose,TX,73976,27766,12-10-2023,12-05-2026,12906,None
+L0087,Elite Systems Limited,7984 Pine Boulevard,Suite 336,Phoenix,TX,57994,109396,5/21/2022,07-10-2024,43650,2x5
+L0088,Atlantic Solutions Associates,7289 Main Drive,Ste 1027,San Diego,CA,80734,15718,4/20/2022,01-05-2028,5769,2x5
+L0089,Advanced Solutions Limited,1383 Oak Drive,Ste 213,Houston,TX,32218,30989,10/29/2023,11/21/2027,15371,None
+L0090,Dynamic Services Limited,8264 Main Road,Ste 742,Phoenix,TX,45069,93694,6/23/2023,11/18/2026,46968,None
+L0091,Strategic Solutions Co,7162 Broadway Drive,Suite 710,Houston,TX,43849,14830,2/25/2022,02-08-2027,7877,2x5
+L0092,Global Ventures Inc,9197 Pine Road,Ste 1067,Chicago,TX,55047,38170,05-01-2023,4/29/2027,19583,None
+L0093,United Ventures Group,1124 Cedar Drive,Suite 449,Los Angeles,CA,69697,103231,10-04-2022,11-12-2025,48674,None
+L0094,Strategic Solutions Group,7942 Main Drive,Ste 419,Houston,CA,87729,32784,8/15/2022,12/26/2025,16273,1x3
+L0095,Global Consulting Co,9239 Pine Boulevard,Suite 1097,Chicago,TX,84093,122909,4/15/2022,10/17/2024,43900,2x5
+L0096,Innovative Partners Corp,248 Commerce Drive,Ste 821,San Jose,CA,19341,76733,6/24/2023,7/16/2028,29590,None
+L0097,Global Ventures Enterprises,5740 Pine Avenue,Ste 224,San Jose,AZ,40930,26095,12-05-2022,1/31/2028,12699,1x5
+L0098,Innovative Partners Enterprises,3123 Main Street,Suite 527,San Diego,PA,39725,88967,07-02-2022,7/20/2026,32464,2x5
+L0099,Atlantic Tech International,6098 Broadway Avenue,Ste 197,Houston,TX,55339,92856,4/20/2023,09-09-2024,42791,1x5
+L0100,Advanced Services Group,7603 Maple Road,Suite 681,Chicago,PA,11968,15456,12-12-2023,2/25/2027,7928,"1x3"""
